@@ -1,0 +1,4 @@
+hai this is a sample text used for testing the word in the file.
+this is another line in the file.
+this is an end!!
+this works!!

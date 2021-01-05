@@ -1,0 +1,10 @@
+import numpy as np
+arr = np.random.randint(1,50,12)
+print(arr)
+print(arr.ndim)
+ar2 = arr.reshape(2,6)
+print(ar2)
+print(ar2.ndim)
+ar3 = arr.reshape(2,2,3)
+print(ar3)
+print(ar3.ndim)
