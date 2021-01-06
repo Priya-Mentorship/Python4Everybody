@@ -8,9 +8,9 @@ for i in range(row):
         val =int(input("Enter number:"))
         a.append(val)
     matrix.append(a)
-print(matrix) 
+# print(matrix) 
 arr = np.array(matrix)    
-print(arr)
+
 # for i in range(row):
 #     for j in range(col):
 #         print(arr[i][j],end='  ')
