@@ -1,0 +1,19 @@
+1.Which statement is used to import numpy?
+2.Create an array using numpy?
+3.Create an array of 10 random integers?
+4.Create an area of elements from 10 to 20?
+5.Create energy which contains value 5 10 times?
+6.Create a one-dimensional array and convert it into a 3 x 3 matrix?
+7.Create and array and then convert all the even numbers with zero?
+8.Create a two-dimensional Eddie of size 3 x 3 but all the elements should be between zero and one?
+9.Perform the following slicing
+1 2 3 4 
+5 6 7 8 
+9 10 11 12
+13 14 15 16
+
+expected output:
+6 7
+10 11
+14 15
+10. Concatenate two-dimensional arrays horizontally and vertically?
