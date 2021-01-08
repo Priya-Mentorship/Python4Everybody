@@ -5,7 +5,7 @@
 5.Create energy which contains value 5 10 times?
 6.Create a one-dimensional array and convert it into a 3 x 3 matrix?
 7.Create and array and then convert all the even numbers with zero?
-8.Create a two-dimensional Eddie of size 3 x 3 but all the elements should be between zero and one?
+8.Create a two-dimensional array of size 3 x 3 but all the elements should be between zero and one?
 9.Perform the following slicing
 1 2 3 4 
 5 6 7 8 
